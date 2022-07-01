@@ -5,6 +5,8 @@ public class User {
     private String sex;
     private String userA;
     private String userB;
+    private String userC;
+    private String userD;
 
     private String currentDev;
 }
